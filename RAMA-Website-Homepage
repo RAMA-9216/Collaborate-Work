@@ -3,6 +3,7 @@
   <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="~/Scripts/Webstyles.css" rel="stylesheet" />
+<Title> My AASHARATA Application</Title>
  </head>
  <body>
  
@@ -45,6 +46,9 @@
         <hr />
        
     </div>
+<div class="container-fluid">
+//Add the desired content here
+</div>
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
